@@ -1,12 +1,7 @@
 #canvas画Material风格的loadingView
-之前看到一个撸Material风格的loadingView的[文章](http://androidwing.net/index.php/73)，里面也有一个SVG做出来效果的[Demo](https://material.uplabs.com/posts/material-loader-interface),个人觉得也很好玩，就顺手也做了一个。
+之前看到一个撸Material风格的loadingView的[文章](http://androidwing.net/index.php/73)，里面也有一个SVG做出来效果的[Demo](https://material.uplabs.com/posts/material-loader-interface),个人觉得也很好玩，就顺手用canvas做了一个。大家可以点击[这里](http://foreverz.cn/loadingView/canvas/)之间查看效果。
 
-开头上源码和效果：
-
-<p data-height="265" data-theme-id="dark" data-slug-hash="GjrzXK" data-default-tab="js,result" data-user="foreveryuan" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/foreveryuan/pen/GjrzXK/">loadingView</a> by Mervyn (<a href="http://codepen.io/foreveryuan">@foreveryuan</a>) on <a href="http://codepen.io">CodePen</a>.</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
-
-这个使用canvas实现的动画效果，svg实现可以去看上面的链接，下面就来看看用canvas的实现。
+这个是使用canvas实现的动画效果，SVG实现可以去看上面的链接，下面就来看看用canvas的实现。
 
 ##canvas三剑客
 使用canvas最先登场的当然就是canvas三剑客了，先在HTML添加canvas标签，设置好宽高，然后在JS里获取DOM对象，然后使用画布方法。
