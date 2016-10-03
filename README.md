@@ -6,7 +6,6 @@
 <p data-height="265" data-theme-id="0" data-slug-hash="GjrzXK" data-default-tab="js,result" data-user="foreveryuan" data-embed-version="2" class="codepen">See the Pen <a href="http://codepen.io/foreveryuan/pen/GjrzXK/">loadingView</a> by Mervyn (<a href="http://codepen.io/foreveryuan">@foreveryuan</a>) on <a href="http://codepen.io">CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-大家也可以直接去我的github上查看源码:[传送门]();
 
 这个使用canvas实现的动画效果，svg实现可以去看上面的链接，下面就来看看用canvas的实现。
 
