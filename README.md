@@ -1,4 +1,4 @@
-canvas画Material风格的loadingView
+#canvas画Material风格的loadingView
 之前看到一个撸Material风格的loadingView的[文章](http://androidwing.net/index.php/73)，里面也有一个SVG做出来效果的[Demo](https://material.uplabs.com/posts/material-loader-interface),个人觉得也很好玩，就顺手也做了一个。
 
 开头上源码和效果：
