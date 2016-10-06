@@ -1,4 +1,4 @@
-## 制作的一些零散的canvas动画
+## 鍒朵綔鐨勪竴浜涢浂鏁ｇ殑canvas鍔ㄧ敾
 
 1. loadingView
-制作的Meterial Design风格的loading加载动画，[Demo](/loadingView)
+鍒朵綔鐨凪eterial Design椋庢牸鐨刲oading鍔犺浇鍔ㄧ敾:[Demo](http://foreverz.cn/CanvasAnimation/loadingView/)
