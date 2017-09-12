@@ -1,0 +1,21 @@
+{
+  "name": "orangearoma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./bin/index.ts",
+  "scripts": {
+    "prestart": "tsc app.ts",
+    "start": "node app",
+    "test": "./node_modules/.bin/mocha -r ./node_modules/ts-node/register lib/**/*.spec.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^3.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.26",
+    "ts-node": "^3.3.0",
+    "typescript": "^2.5.2"
+  }
+}
